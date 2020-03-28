@@ -1,0 +1,4 @@
+Wpu resolusi 
+ - konsisten untuk membuat konten 2X seminngu
+ - membuat platform untuk pengelolaan konten
+ - membuat form diskusi
