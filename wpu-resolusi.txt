@@ -2,3 +2,5 @@ Wpu resolusi
  - konsisten untuk membuat konten 2X seminngu
  - membuat platform untuk pengelolaan konten
  - membuat form diskusi
+ - membuat merc shop
+ - membuat kolaborasi konten bersama banyak expert
