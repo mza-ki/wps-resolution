@@ -2,11 +2,6 @@ rencana konten wpu
  - javascript
    * ES6
    * framework JS
-     
-     - React
- - php framework
-   - Laravel
-
      - vue
      - Angular
      - react
