@@ -2,7 +2,13 @@ rencana konten wpu
  - javascript
    * ES6
    * framework JS
-     - view
+     
+     - React
+ - php framework
+   - Laravel
+
+     - vue
+     - Angular
      - react
  - fundamental data structur(struktur data dasar)
  - php framework
