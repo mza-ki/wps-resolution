@@ -3,6 +3,7 @@ rencana konten wpu
    * ES6
    * framework JS
      - view
+     - react
  - fundamental data structur(struktur data dasar)
  - php framework
    - laravel
